@@ -38,13 +38,8 @@ _Not sure what to talk about? Some past sessions have included AI ethics, sustai
 
 ## 🎟️ How to Register
 
-Simply [click here](#RegistrationLink) to fill out our registration form and join the community of future-shapers!
+Simply [click here](#RegistrationLink) to fill out our registration for the Helmholtz AI Conference 2024 and choose to attend the satellite event!
 
-
-## 🤝 Connect With Us
-
-- **Twitter**: [@Unconference2023](https://twitter.com/Unconference2023)
-- **LinkedIn**: [Unconference 2023 Group](https://linkedin.com/)
 
 ---
 
