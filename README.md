@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://github.com/DKRZ-AIM/HAI-HI-unconference-2023/assets/29659187/0dddb1b8-69c0-4aeb-8a68-aedb8b9f996b" height="40">
 
-**Welcome to the Satallite Unconference at the Helmholtz AI conference 2024, June 12, 2024, Düsseldorf ([Full program]())!**
+**Welcome to the Satellite Unconference at the Helmholtz AI conference 2024, June 12, 2024, Düsseldorf ([Full program]())!**
 
 Unconferences are participant-driven events where the attendees decide the topics and shape the agenda. Here, we believe in the collective power of bright minds coming together to spark innovation and inspire change. For more information on Unconferences check [this](https://www.youtube.com/watch?v=0ai3cl-fWvE) or [this](https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/). 
 
@@ -43,7 +43,7 @@ Simply [click here](#RegistrationLink) to fill out our registration for the Helm
 
 ---
 
-💬 **Join the conversation and help shape the future at the Satteleite Unconference 2024!** 🚀
+💬 **Join the conversation and help shape the future at the Satellite Unconference 2024!** 🚀
 
 ---
 
