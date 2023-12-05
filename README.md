@@ -6,6 +6,8 @@
 
 **Welcome to the Satellite Unconference at the Helmholtz AI conference 2024, June 12, 2024, Düsseldorf ([Full program]())!**
 
+Fuel your curiosity and kick off the excitement! Join us for a dynamic unconference, a satellite event right before the conference begins, where innovation knows no bounds. Don't miss this unique opportunity to engage, collaborate, and set the tone for an unforgettable conference experience.
+
 Unconferences are participant-driven events where the attendees decide the topics and shape the agenda. Here, we believe in the collective power of bright minds coming together to spark innovation and inspire change. For more information on Unconferences check [this](https://www.youtube.com/watch?v=0ai3cl-fWvE) or [this](https://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/). 
 
 This repository is used for topic collection.
